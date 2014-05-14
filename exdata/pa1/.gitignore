@@ -1,0 +1,11 @@
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+#R .data to downaload from web, big data sets, not worth to keep in repository
+.data/
